@@ -4,7 +4,7 @@ import json
 import spacy
 
 # Load the JSON data
-with open('./DataSet/Dataset.json', 'r') as file:
+with open('DataSet/Dataset.json', 'r') as file:
     data = json.load(file)
 
 # Load the spaCy NLP model
