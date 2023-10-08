@@ -22,8 +22,16 @@
               },
               {
                   "question": "How are you?",
-                  "answer": "I'm just a computer program, so I don't have feelings, but I'm here to assist you!"
+                  "answer": "I'm fine what about you?"
               },
+              {
+                "question": "I'm fine",
+                "answer": "That's good how can I help you today?"
+            },
+            {
+              "question": "me too",
+              "answer": "That's good how can I help you today"
+          },
               {
                   "question": "Good morning",
                   "answer": "Good morning! It's a new day, how can I assist you today?"
@@ -42,11 +50,11 @@
               },
               {
                 "question": "What is this planet ?",
-                "answer": "In the vast cosmic tapestry of the universe, nestled within the depths of the cosmos, lies an exoplanet of unparalleled beauty and wonder Myriabel."
+                "answer": "Myriabel is an exoplanet of unparalleled beauty and wonder. It orbits a G-type main-sequence star, approximately 1.2 times the size of Earth, and has a surface gravity about 10% stronger than Earth's. This increased gravity helps retain a denser atmosphere, providing more protection from cosmic radiation. Myriabel is situated within the habitable zone of its parent star, granting it a temperate climate where liquid water can be found."
               },
               {
                 "question": "What is Myriabel ?",
-                "answer": "In the vast cosmic tapestry of the universe, nestled within the depths of the cosmos, lies an exoplanet of unparalleled beauty and wonder Myriabel."
+                "answer": "Myriabel is an exoplanet of unparalleled beauty and wonder. It orbits a G-type main-sequence star, approximately 1.2 times the size of Earth, and has a surface gravity about 10% stronger than Earth's. This increased gravity helps retain a denser atmosphere, providing more protection from cosmic radiation. Myriabel is situated within the habitable zone of its parent star, granting it a temperate climate where liquid water can be found."
               },
               {
                 "question": "What is the size and type of star that Myriabel orbits?",
@@ -77,7 +85,7 @@
                 "answer": "Myriabel experiences exotic atmospheric phenomena, including the \"luminous sky,\" where gases in the upper atmosphere emit vivid colors due to complex chemical reactions triggered by the planet's unique atmospheric composition."
               },
               {
-                "question": "What is the significance of the geological diversity on Myriabel, including its crystal formations?",
+                "question": " the significance of the geological diversity on Myriabel, including its crystal formations?",
                 "answer": "The geological diversity on Myriabel includes massive crystal formations formed from high-pressure conditions and abundant minerals in the planet's crust. The gravitational resonance rings are enormous, ring-shaped geological formations that generate a stable, protective field against cosmic radiation."
               },
               {
